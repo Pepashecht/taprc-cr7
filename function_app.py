@@ -161,4 +161,6 @@ def extract_solicitante(myTimer: func.TimerRequest) -> None:
                 logging.info(row)
     except Exception as e:
         logging.error(f"Error connecting to the database: {e}")
-#SOLICITANTE
+    #SOLICITANTE
+
+    
